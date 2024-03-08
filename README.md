@@ -1,16 +1,13 @@
-### Hi there 👋
+### ✨ Who am I?
+¡Hello, i am [Deivy Lujan]!
 
-<!--
-**salazarmdf/salazarmdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🥷 About me
+I am a third semester student at UNAC with the goal of becoming a fullstack developer. Currently, I am focused on learning and mastering both client-side and server-side technologies.
 
-Here are some ideas to get you started:
+### 🚀 Objetives
+My objetive is to grow as a fullstack developer, contribute to meaningful projects and continue learning new web development technologies and I look for opportunities to apply my knowledge in real-world environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies that I use
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg)
+
+Thank you for visiting my profile! 🤝
