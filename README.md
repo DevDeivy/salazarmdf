@@ -11,3 +11,5 @@ My objetive is to grow as a fullstack developer, contribute to meaningful projec
 ![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg)
 
 Thank you for visiting my profile! 🤝
+
+My personal page is in process...
