@@ -8,7 +8,7 @@ I am a third semester student at UNAC with the goal of becoming a fullstack deve
 My objetive is to grow as a fullstack developer, contribute to meaningful projects and continue learning new web development technologies and I look for opportunities to apply my knowledge in real-world environments.
 
 ### 💻 Technologies that I use
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg) ![git](./assets/Git-logo-orange.svg)
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg)
 
 
 Thank you for visiting my profile! 🤝
